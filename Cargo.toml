@@ -1,0 +1,14 @@
+[package]
+name = "printable"
+version = "0.0.1"
+authors = ["Andrew Sonin <sonin.cel@yandex.ru>"]
+categories = ["value-formatting"]
+description = "Provides Display wrapper for iterators of Display-implementing elements."
+keywords = ["printable", "formatting", "display"]
+license = "MIT"
+repository = "https://github.com/andrewsonin/printable"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
